@@ -380,6 +380,21 @@ text-align: center;
 .button a:hover{
       background: #00AEEF;
 }
+
+
+.about_section{}
+.left_about_section{}
+.left_about_section img{}
+.Right_about_section{}
+.Right_about_section h2{}
+.Right_about_section h2 span{}
+.Right_about_section p{}
+.Right_about_section p b {}
+
+
+
+
+
 .footer_area {
      overflow: hidden;
     padding: 30px 0px;
